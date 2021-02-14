@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: Helloprinterpackage
+Version: 0.0.1
+Summary: A basic hello printer package
+Home-page: UNKNOWN
+Author: Asher Thomas Abraham
+Author-email: achutomonline@gmail.com
+License: MIT
+Description: This very simple word printer
+        
+        Change Log
+        ==========
+        
+        0.0.1 (14/01/2021)
+        -------------------
+        -First Release
+Keywords: Hello
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/StableIntended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

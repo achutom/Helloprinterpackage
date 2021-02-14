@@ -1,0 +1,10 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+readme.txt
+setup.py
+Helloprinterpackage.egg-info/PKG-INFO
+Helloprinterpackage.egg-info/SOURCES.txt
+Helloprinterpackage.egg-info/dependency_links.txt
+Helloprinterpackage.egg-info/top_level.txt
