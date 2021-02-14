@@ -1,1 +1,1 @@
-This very simple word printer
+This is a very simple word printer
